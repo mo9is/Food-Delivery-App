@@ -12,4 +12,4 @@ Screenshots -
 
 ![Simulator Screenshot - iPhone 16 - 2025-02-03 at 01 34 23](https://github.com/user-attachments/assets/9da1f792-4598-4308-aaf3-bccc20681403)
 
-
+Credit to https://github.com/YogeshPateliOS/FoodAppSwiftUI for inspiration. Do check it out! 
