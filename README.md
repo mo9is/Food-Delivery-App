@@ -1,6 +1,6 @@
 # Food-Delivery-App
 
-This is a sample project for a food devlivery app which is completely developed in SwiftUI, uses Combine to fetch data and MVVM architecture. 
+This is a sample project for a food devlivery app which is completely developed in **SwiftUI, uses Combine to fetch data and MVVM architecture**. 
 
 Please feel free to share any feedback. Keep learning :) 
 
